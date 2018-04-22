@@ -1,3 +1,3 @@
 # Table of Contents
 
-* [Portal](docs/README.md)
+* [docs](docs/README.md)
