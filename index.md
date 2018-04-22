@@ -5,11 +5,13 @@ This page is a private portal page.
 - [https://gmail.todoist.com/app?lang=ja&v=723#agenda%2Foverdue%2C%20today](https://gmail.todoist.com/app?lang=ja&v=723#agenda%2Foverdue%2C%20today)
 - [https://calendar.google.com/calendar/r/month](https://calendar.google.com/calendar/r/month)
 
+
 ## logging
 - [https://www.studyplus.jp/users/ebc29742610011e7b41022000aa62899](https://www.studyplus.jp/users/ebc29742610011e7b41022000aa62899)
 - [https://journey.cloud/me#](https://journey.cloud/me#)
 - - -
 ## links
+
 
 ### Google
 - [https://www.google.co.jp/](https://www.google.co.jp/)
@@ -20,11 +22,12 @@ This page is a private portal page.
 - [https://keep.google.com/u/0/](https://keep.google.com/u/0/)
 - [https://www.chatwork.com/#!rid103642931](https://www.chatwork.com/#!rid103642931)
 
-g### Drives
+### Drives
 - [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 - [https://photos.google.com/](https://photos.google.com/)
 - [https://github.com/sakai-memoru/journal](https://github.com/sakai-memoru/journal)
 - [https://sakai-memoru.github.io/memo/docs/wiki/#!index.md](https://sakai-memoru.github.io/memo/docs/wiki/#!index.md)
+
 
 ### Writing and Drawing and Pictures and Diagrams
 - [https://sakaimemoru.imgur.com/all](https://sakaimemoru.imgur.com/all)
