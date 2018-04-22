@@ -21,10 +21,6 @@ This page is a private portal page.
 - - -
 ## links
 
-
-### Google
-- [https://www.google.co.jp/](https://www.google.co.jp/)
-
 ### Working tools
 - [https://inbox.google.com/u/0/](https://inbox.google.com/u/0/)
 - [https://plus.google.com/u/0/communities/115091755067404741739](https://plus.google.com/u/0/communities/115091755067404741739)
