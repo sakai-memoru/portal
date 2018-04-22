@@ -4,7 +4,7 @@ This page is a private portal page.
 <form method=get action="http://www.google.co.jp/search">
 <table bgcolor="#FFFFFF"><tr>
   <td><a href="http://www.google.co.jp/"><img src="http://www.google.com/logos/Logo_40wht.gif" border="0" alt="Google" align="absmiddle"></a></td>
-  <td><input type=text name=q size=25 maxlength=255 value=""><input type=hidden name=ie value=Shift_JIS><input type=hidden name=oe value=Shift_JIS><input type=hidden name=hl value="ja"></td>
+  <td><input type=text name=q size=25 maxlength=255 value=""><input type=hidden name=ie value=utf-8><input type=hidden name=oe value=utf-8><input type=hidden name=hl value="ja"></td>
   <td><input type=submit name=btnG value="Search"></td>
 </tr></table>
 </form>
