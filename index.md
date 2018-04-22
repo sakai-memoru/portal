@@ -4,18 +4,22 @@ This page is a private portal page.
 ## Chore
 - [https://gmail.todoist.com/app?lang=ja&v=723#agenda%2Foverdue%2C%20today](https://gmail.todoist.com/app?lang=ja&v=723#agenda%2Foverdue%2C%20today)
 - [https://calendar.google.com/calendar/r/month](https://calendar.google.com/calendar/r/month)
+
 ## logging
 - [https://www.studyplus.jp/users/ebc29742610011e7b41022000aa62899](https://www.studyplus.jp/users/ebc29742610011e7b41022000aa62899)
 - [https://journey.cloud/me#](https://journey.cloud/me#)
 - - -
 ## links
+
 ### Google
 - [https://www.google.co.jp/](https://www.google.co.jp/)
+
 ### Working tools
 - [https://inbox.google.com/u/0/](https://inbox.google.com/u/0/)
 - [https://plus.google.com/u/0/communities/115091755067404741739](https://plus.google.com/u/0/communities/115091755067404741739)
 - [https://keep.google.com/u/0/](https://keep.google.com/u/0/)
 - [https://www.chatwork.com/#!rid103642931](https://www.chatwork.com/#!rid103642931)
+
 ### Drives
 - [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 - [https://photos.google.com/](https://photos.google.com/)
@@ -25,8 +29,10 @@ This page is a private portal page.
 ### Writing and Drawing and Pictures and Diagrams
 - [https://sakaimemoru.imgur.com/all](https://sakaimemoru.imgur.com/all)
 - [https://www.pinterest.jp/sakaimemoru/pin/](https://www.pinterest.jp/sakaimemoru/pin/)
+
 - - -
 ## Post
+
 ### Articles and Excerpt and Reading After
 - [https://dynalist.io/d/gjLwUuRO0knFRtqzliTaCpi2](https://dynalist.io/d/gjLwUuRO0knFRtqzliTaCpi2)
 - [https://scrapbox.io/sakaimemoru-93388766/](https://scrapbox.io/sakaimemoru-93388766/)
