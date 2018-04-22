@@ -2,9 +2,9 @@
 This page is a private portal page.
 <!-- Google  -->
 <form method=get action="http://www.google.co.jp/search">
-  <a href="http://www.google.co.jp/"><img src="https://i.imgur.com/QiZJ2gJ.png" border="0" alt="Google" align="absmiddle"></a>
   <input type=text name=q size=25 maxlength=255 value=""><input type=hidden name=ie value=utf-8><input type=hidden name=oe value=utf-8><input type=hidden name=hl value="ja">
   <input type=submit name=btnG value="Search">
+  <!--<a href="http://www.google.co.jp/"><img src="https://i.imgur.com/QiZJ2gJ.png" border="0" alt="Google" align="absmiddle"></a>-->
 </form>
 <!-- Google -->
 
@@ -14,14 +14,15 @@ This page is a private portal page.
 
 
 ## logging
-- [https://www.studyplus.jp/users/ebc29742610011e7b41022000aa62899](https://www.studyplus.jp/users/ebc29742610011e7b41022000aa62899)
 - [https://journey.cloud/me#](https://journey.cloud/me#)
+- [https://plus.google.com/u/0/communities/115091755067404741739](https://plus.google.com/u/0/communities/115091755067404741739)
+- [https://www.studyplus.jp/users/ebc29742610011e7b41022000aa62899](https://www.studyplus.jp/users/ebc29742610011e7b41022000aa62899)
+
 - - -
 ## links
 
 ### Working tools
 - [https://inbox.google.com/u/0/](https://inbox.google.com/u/0/)
-- [https://plus.google.com/u/0/communities/115091755067404741739](https://plus.google.com/u/0/communities/115091755067404741739)
 - [https://keep.google.com/u/0/](https://keep.google.com/u/0/)
 - [https://www.chatwork.com/#!rid103642931](https://www.chatwork.com/#!rid103642931)
 
